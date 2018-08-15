@@ -6,7 +6,8 @@
 [Bb]in/
 packages/
 TestResults/
-appsetting.debug.json
+appsetting.Debug.json
+appsetting.Release.json
 
 # globs
 Makefile.in
